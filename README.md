@@ -100,15 +100,15 @@ src/
    ```bash
    git clone https://github.com/Anelido70/Aplicacion-Gestora-De-Examenes.git
 2. **Crear la base de datos**
-   Ejecutar el script SQL de schema.sql en MariaDB
-   Se creará la BD gestion_examenes con 8 tablas
+   - Ejecutar el script SQL de schema.sql en MariaDB
+   - Se creará la BD gestion_examenes con 8 tablas
 3. **Configurar la conexión**
-   Editar DatabaseConnection.java con tu usuario y contraseña de MariaDB
+   - Editar DatabaseConnection.java con tu usuario y contraseña de MariaDB
 4. **Ejecutar**
-   Abrir el proyecto en VS Code
-   Añadir mariadb-java-client.jar al classpath
-   Ejecutar Main.java
+   - Abrir el proyecto en VS Code
+   - Añadir mariadb-java-client.jar al classpath
+   - Ejecutar Main.java
 5. **Usuario por defecto**
-   Usuario: admin
-   Contraseña: admin123
-   El sistema lo crea automáticamente al iniciar
+   - Usuario: admin
+   - Contraseña: admin123
+   - El sistema lo crea automáticamente al iniciar
