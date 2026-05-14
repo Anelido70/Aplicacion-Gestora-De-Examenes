@@ -35,7 +35,7 @@ Aplicación de escritorio para la gestión de exámenes desarrollada con **Java 
 ---
 
 ## 📁 Estructura del proyecto (MVC)
-\`\`\`
+```
 src/
 ├── Main.java                          Punto de entrada
 ├── config/
@@ -69,7 +69,7 @@ src/
     ├── ModoPracticaDialog.java        Modo práctica con autocorrección
     ├── BusquedaAvanzadaDialog.java    Búsqueda con filtros
     └── VisorAuditoriaDialog.java      Visualización del registro de auditoría
-\`\`\`
+```
 
 ---
 
@@ -98,7 +98,7 @@ src/
 ### Pasos
 1. **Clonar el repositorio**
    ```bash
-   git clone https://github.com/Anelido70/Aplicaci-n-Gestora-De-Examenes.git
+   git clone https://github.com/Anelido70/Aplicacion-Gestora-De-Examenes.git
 2. **Crear la base de datos**
    Ejecutar el script SQL de schema.sql en MariaDB
    Se creará la BD gestion_examenes con 8 tablas
