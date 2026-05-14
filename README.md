@@ -1,10 +1,11 @@
-<img width="390" height="342" alt="Resultado de la práctica" src="https://github.com/user-attachments/assets/3295e871-75f7-488b-9707-9a358b9116e2" />
-<img width="567" height="416" alt="Modo Práctica Gestor de Examenes" src="https://github.com/user-attachments/assets/22dab22e-20e2-456d-97ad-f86b3f71f87a" />
-<img width="567" height="486" alt="Vista Previa de Examenes" src="https://github.com/user-attachments/assets/2020fa20-140f-4b11-943f-745d4da77063" />
-<img width="567" height="377" alt="Creacion de Examenes" src="https://github.com/user-attachments/assets/f32072b7-e2d8-4b7b-bff3-06ea476d51ea" />
-<img width="567" height="323" alt="Creacion de Preguntas de Examen" src="https://github.com/user-attachments/assets/1b096f89-bcd4-48a9-87c9-e56e09453b29" />
-<img width="567" height="345" alt="MainFrameProfesor Gestor Examenes" src="https://github.com/user-attachments/assets/ca5b7c3c-7971-4a31-ad54-2892636acb44" />
 <img width="499" height="434" alt="Login Gestor Examenes" src="https://github.com/user-attachments/assets/8d752a34-9ff6-4933-9a2c-8cbce7aefc6b" />
+<img width="567" height="345" alt="MainFrameProfesor Gestor Examenes" src="https://github.com/user-attachments/assets/ca5b7c3c-7971-4a31-ad54-2892636acb44" />
+<img width="567" height="323" alt="Creacion de Preguntas de Examen" src="https://github.com/user-attachments/assets/1b096f89-bcd4-48a9-87c9-e56e09453b29" />
+<img width="567" height="377" alt="Creacion de Examenes" src="https://github.com/user-attachments/assets/f32072b7-e2d8-4b7b-bff3-06ea476d51ea" />
+<img width="567" height="486" alt="Vista Previa de Examenes" src="https://github.com/user-attachments/assets/2020fa20-140f-4b11-943f-745d4da77063" />
+<img width="567" height="416" alt="Modo Práctica Gestor de Examenes" src="https://github.com/user-attachments/assets/22dab22e-20e2-456d-97ad-f86b3f71f87a" />
+<img width="390" height="342" alt="Resultado de la práctica" src="https://github.com/user-attachments/assets/3295e871-75f7-488b-9707-9a358b9116e2" />
+
 # 📚 Gestión de Exámenes - IES Clara del Rey
 
 Aplicación de escritorio para la gestión de exámenes desarrollada con **Java Swing** y **MariaDB** aplicando el patrón **MVC**.
